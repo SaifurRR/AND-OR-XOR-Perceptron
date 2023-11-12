@@ -3,7 +3,7 @@
 2 input Gates
 
 AND - > Test Score = 1.0
-OR  - > Test Score = 1.0
+OR  - > Test Score = 1.0 
 XOR - > Test Score = 0.5
 
 ## AND Perceptron Decision Boundary :
@@ -16,5 +16,4 @@ XOR - > Test Score = 0.5
 ![ALT TEXT](https://github.com/SaifurRR/AND-OR-XOR-Perceptron/blob/main/OR_Perceptron_decision_boundary.png)
 
 ### Conclusion: 
-
-XOR can't be represented with a 'Linear Classifier' as the 4 possible outputs for 2 inputs can't be separated with a single straight line.
+XOR can't be represented with a 'Linear Classifier' as the 4 possible outputs for 2 inputs can't be separated with a single straight line
