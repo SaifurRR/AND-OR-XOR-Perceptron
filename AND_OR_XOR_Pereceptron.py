@@ -50,8 +50,6 @@ heatmap=plt.pcolormesh(x_values,y_values,distance_matrix)
 
 plt.colorbar(heatmap)
 
-
-
 plt.show()
 
 
